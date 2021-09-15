@@ -8,5 +8,9 @@ namespace RubicTest
 {
     class House
     {
+        private string street;
+        private int skolcoStroili;
+        private float skokPadat;
+        private bool isHuge;
     }
 }
